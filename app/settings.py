@@ -11,7 +11,6 @@ BOT_NAME = 'app'
 
 SPIDER_MODULES = ['app.spiders']
 NEWSPIDER_MODULE = 'app.spiders'
-DEFAULT_ITEM_CLASS='app.items.WallpaperscrapyItem'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'app (+http://www.yourdomain.com)'
